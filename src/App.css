@@ -1,0 +1,37 @@
+.page-container {
+  min-height: 100vh;
+  padding: 2rem;
+  background: #f5f7fa;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.page-header p {
+  font-size: 1.25rem;
+  color: #666;
+}
+
+.quiz-header {
+  margin-bottom: 2rem;
+}
+
+.loading-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
+.loading-state p {
+  font-size: 1.125rem;
+  color: #666;
+}
